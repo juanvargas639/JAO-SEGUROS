@@ -1,0 +1,471 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{00F0857A-7A6C-45C6-9D2D-495BB57755C3}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JAO_Seguros</RootNamespace>
+    <AssemblyName>JAO Seguros</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=20.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.20.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=3.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Aplicacion\Default.aspx" />
+    <Content Include="Aplicacion\Ingresar.aspx" />
+    <Content Include="Aplicacion\PagAdmin\Administradores.aspx" />
+    <Content Include="Aplicacion\PagAdmin\Asesores.aspx" />
+    <Content Include="Aplicacion\PagAdmin\AsesoresAdmin.aspx" />
+    <Content Include="Aplicacion\PagAdmin\BaseClientes.aspx" />
+    <Content Include="Aplicacion\PagAdmin\Cotizaciones.aspx" />
+    <Content Include="Aplicacion\PagAdmin\CrearAdmin.aspx" />
+    <Content Include="Aplicacion\PagAdmin\CrearAsesor.aspx" />
+    <Content Include="Aplicacion\PagAdmin\CrearCliente.aspx" />
+    <Content Include="Aplicacion\PagAdmin\CrearPoliza.aspx" />
+    <Content Include="Aplicacion\PagAdmin\CrearProveedor.aspx" />
+    <Content Include="Aplicacion\PagAdmin\DefaultAdmin.aspx" />
+    <Content Include="Aplicacion\PagAdmin\EditarAdmin.aspx" />
+    <Content Include="Aplicacion\PagAdmin\EditarAsesor.aspx" />
+    <Content Include="Aplicacion\PagAdmin\EditarCliente.aspx" />
+    <Content Include="Aplicacion\PagAdmin\EditarCotizaciones.aspx" />
+    <Content Include="Aplicacion\PagAdmin\EditarPoliza.aspx" />
+    <Content Include="Aplicacion\PagAdmin\EditarProveedor.aspx" />
+    <Content Include="Aplicacion\PagAdmin\EditarReportes.aspx" />
+    <Content Include="Aplicacion\PagAdmin\Perfil.aspx" />
+    <Content Include="Aplicacion\PagAdmin\Polizas.aspx" />
+    <Content Include="Aplicacion\PagAdmin\Proveedores.aspx" />
+    <Content Include="Aplicacion\PagAdmin\Reportes.aspx" />
+    <Content Include="Aplicacion\PagAsesor\BaseClientesAsesor.aspx" />
+    <Content Include="Aplicacion\PagAsesor\Cotizaciones.aspx" />
+    <Content Include="Aplicacion\PagAsesor\CrearCliente.aspx" />
+    <Content Include="Aplicacion\PagAsesor\CrearPoliza.aspx" />
+    <Content Include="Aplicacion\PagAsesor\DefaultAsesor.aspx" />
+    <Content Include="Aplicacion\PagAsesor\EditarCliente.aspx" />
+    <Content Include="Aplicacion\PagAsesor\EditarCotizaciones.aspx" />
+    <Content Include="Aplicacion\PagAsesor\EditarPoliza.aspx" />
+    <Content Include="Aplicacion\PagAsesor\EditarReportes.aspx" />
+    <Content Include="Aplicacion\PagAsesor\Perfil.aspx" />
+    <Content Include="Aplicacion\PagAsesor\Polizas.aspx" />
+    <Content Include="Aplicacion\PagAsesor\Reportes.aspx" />
+    <Content Include="Aplicacion\PagCliente\DefaultCliente.aspx" />
+    <Content Include="Aplicacion\PagCliente\Perfil.aspx" />
+    <Content Include="Aplicacion\PagCliente\Polizas.aspx" />
+    <Content Include="Aplicacion\PagCliente\Reportes.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aplicacion\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\Ingresar.aspx.cs">
+      <DependentUpon>Ingresar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\Ingresar.aspx.designer.cs">
+      <DependentUpon>Ingresar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Administradores.aspx.cs">
+      <DependentUpon>Administradores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Administradores.aspx.designer.cs">
+      <DependentUpon>Administradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Asesores.aspx.cs">
+      <DependentUpon>Asesores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Asesores.aspx.designer.cs">
+      <DependentUpon>Asesores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\AsesoresAdmin.aspx.cs">
+      <DependentUpon>AsesoresAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\AsesoresAdmin.aspx.designer.cs">
+      <DependentUpon>AsesoresAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\BaseClientes.aspx.cs">
+      <DependentUpon>BaseClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\BaseClientes.aspx.designer.cs">
+      <DependentUpon>BaseClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Cotizaciones.aspx.cs">
+      <DependentUpon>Cotizaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Cotizaciones.aspx.designer.cs">
+      <DependentUpon>Cotizaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearAdmin.aspx.cs">
+      <DependentUpon>CrearAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearAdmin.aspx.designer.cs">
+      <DependentUpon>CrearAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearAsesor.aspx.cs">
+      <DependentUpon>CrearAsesor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearAsesor.aspx.designer.cs">
+      <DependentUpon>CrearAsesor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearCliente.aspx.cs">
+      <DependentUpon>CrearCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearCliente.aspx.designer.cs">
+      <DependentUpon>CrearCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearPoliza.aspx.cs">
+      <DependentUpon>CrearPoliza.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearPoliza.aspx.designer.cs">
+      <DependentUpon>CrearPoliza.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearProveedor.aspx.cs">
+      <DependentUpon>CrearProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\CrearProveedor.aspx.designer.cs">
+      <DependentUpon>CrearProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\DefaultAdmin.aspx.cs">
+      <DependentUpon>DefaultAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\DefaultAdmin.aspx.designer.cs">
+      <DependentUpon>DefaultAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarAdmin.aspx.cs">
+      <DependentUpon>EditarAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarAdmin.aspx.designer.cs">
+      <DependentUpon>EditarAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarAsesor.aspx.cs">
+      <DependentUpon>EditarAsesor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarAsesor.aspx.designer.cs">
+      <DependentUpon>EditarAsesor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarCliente.aspx.cs">
+      <DependentUpon>EditarCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarCliente.aspx.designer.cs">
+      <DependentUpon>EditarCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarCotizaciones.aspx.cs">
+      <DependentUpon>EditarCotizaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarCotizaciones.aspx.designer.cs">
+      <DependentUpon>EditarCotizaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarPoliza.aspx.cs">
+      <DependentUpon>EditarPoliza.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarPoliza.aspx.designer.cs">
+      <DependentUpon>EditarPoliza.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarProveedor.aspx.cs">
+      <DependentUpon>EditarProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarProveedor.aspx.designer.cs">
+      <DependentUpon>EditarProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarReportes.aspx.cs">
+      <DependentUpon>EditarReportes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\EditarReportes.aspx.designer.cs">
+      <DependentUpon>EditarReportes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Perfil.aspx.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Perfil.aspx.designer.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Polizas.aspx.cs">
+      <DependentUpon>Polizas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Polizas.aspx.designer.cs">
+      <DependentUpon>Polizas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Proveedores.aspx.cs">
+      <DependentUpon>Proveedores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Proveedores.aspx.designer.cs">
+      <DependentUpon>Proveedores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Reportes.aspx.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAdmin\Reportes.aspx.designer.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\BaseClientesAsesor.aspx.cs">
+      <DependentUpon>BaseClientesAsesor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\BaseClientesAsesor.aspx.designer.cs">
+      <DependentUpon>BaseClientesAsesor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Cotizaciones.aspx.cs">
+      <DependentUpon>Cotizaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Cotizaciones.aspx.designer.cs">
+      <DependentUpon>Cotizaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\CrearCliente.aspx.cs">
+      <DependentUpon>CrearCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\CrearCliente.aspx.designer.cs">
+      <DependentUpon>CrearCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\CrearPoliza.aspx.cs">
+      <DependentUpon>CrearPoliza.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\CrearPoliza.aspx.designer.cs">
+      <DependentUpon>CrearPoliza.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\DefaultAsesor.aspx.cs">
+      <DependentUpon>DefaultAsesor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\DefaultAsesor.aspx.designer.cs">
+      <DependentUpon>DefaultAsesor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarCliente.aspx.cs">
+      <DependentUpon>EditarCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarCliente.aspx.designer.cs">
+      <DependentUpon>EditarCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarCotizaciones.aspx.cs">
+      <DependentUpon>EditarCotizaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarCotizaciones.aspx.designer.cs">
+      <DependentUpon>EditarCotizaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarPoliza.aspx.cs">
+      <DependentUpon>EditarPoliza.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarPoliza.aspx.designer.cs">
+      <DependentUpon>EditarPoliza.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarReportes.aspx.cs">
+      <DependentUpon>EditarReportes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\EditarReportes.aspx.designer.cs">
+      <DependentUpon>EditarReportes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Perfil.aspx.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Perfil.aspx.designer.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Polizas.aspx.cs">
+      <DependentUpon>Polizas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Polizas.aspx.designer.cs">
+      <DependentUpon>Polizas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Reportes.aspx.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagAsesor\Reportes.aspx.designer.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\DefaultCliente.aspx.cs">
+      <DependentUpon>DefaultCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\DefaultCliente.aspx.designer.cs">
+      <DependentUpon>DefaultCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\Perfil.aspx.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\Perfil.aspx.designer.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\Polizas.aspx.cs">
+      <DependentUpon>Polizas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\Polizas.aspx.designer.cs">
+      <DependentUpon>Polizas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\Reportes.aspx.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\PagCliente\Reportes.aspx.designer.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Administrador.cs" />
+    <Compile Include="Class\Aseguradora.cs" />
+    <Compile Include="Class\Cliente.cs" />
+    <Compile Include="Class\ConexionSQL.cs" />
+    <Compile Include="Class\Cotizacion.cs" />
+    <Compile Include="Class\Empleado.cs" />
+    <Compile Include="Class\GestionAdmin.cs" />
+    <Compile Include="Class\GestionAseguradora.cs" />
+    <Compile Include="Class\GestionCliente.cs" />
+    <Compile Include="Class\GestionCotizacion.cs" />
+    <Compile Include="Class\GestionEmpleado.cs" />
+    <Compile Include="Class\GestionLogin.cs" />
+    <Compile Include="Class\GestionPoliza.cs" />
+    <Compile Include="Class\GestionPolizaTipo.cs" />
+    <Compile Include="Class\GestionReporte.cs" />
+    <Compile Include="Class\Login.cs" />
+    <Compile Include="Class\Poliza.cs" />
+    <Compile Include="Class\PolizaTipo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Class\Reporte.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="libman.json" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Aplicacion\PolizasVirtuales\" />
+    <Folder Include="library\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50325</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50325/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

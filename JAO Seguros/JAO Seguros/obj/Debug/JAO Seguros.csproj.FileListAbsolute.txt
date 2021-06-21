@@ -1,0 +1,276 @@
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\JAO Seguros.pdb
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\csc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\csi.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.AppContext.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Console.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Compression.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Pipes.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Claims.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.ValueTuple.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\vbc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CoreCompileInputs.cache
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CopyComplete
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.pdb
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\MySql.Data.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\Google.Protobuf.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\Zstandard.Net.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\BouncyCastle.Crypto.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\Ubiety.Dns.Core.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\Renci.SshNet.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\System.Buffers.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\K4os.Compression.LZ4.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\K4os.Hash.xxHash.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\bin\MySql.Data.xml
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO SEGUROS\JAO Seguros\obj\Debug\JAO Seguros.csprojAssemblyReference.cache
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.pdb
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.AppContext.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Console.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Compression.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Pipes.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Claims.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.ValueTuple.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\MySql.Data.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\Google.Protobuf.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\Zstandard.Net.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\BouncyCastle.Crypto.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\Ubiety.Dns.Core.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\Renci.SshNet.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\System.Buffers.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Compression.LZ4.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Hash.xxHash.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\MySql.Data.xml
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csprojAssemblyReference.cache
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CoreCompileInputs.cache
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CopyComplete
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.pdb
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll.config
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.pdb
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.AppContext.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Console.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Compression.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Pipes.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Claims.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.ValueTuple.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\MySql.Data.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Google.Protobuf.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Zstandard.Net.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\BouncyCastle.Crypto.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Ubiety.Dns.Core.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Renci.SshNet.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\System.Buffers.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Compression.LZ4.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Hash.xxHash.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\MySql.Data.xml
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csprojAssemblyReference.cache
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CoreCompileInputs.cache
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CopyComplete
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO SQL\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.pdb
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll.config
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\JAO Seguros.pdb
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\csi.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.AppContext.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Console.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Compression.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Net.Http.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Net.Sockets.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.ValueTuple.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\vbc.rsp
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\AjaxControlToolkit.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\MySql.Data.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Google.Protobuf.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Zstandard.Net.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\BouncyCastle.Crypto.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Ubiety.Dns.Core.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Renci.SshNet.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\System.Buffers.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Compression.LZ4.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\K4os.Hash.xxHash.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\bin\MySql.Data.xml
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csprojAssemblyReference.cache
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CoreCompileInputs.cache
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.csproj.CopyComplete
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.dll
+C:\Users\varga\Documents\ADSI\PROYECTO DASHBOARD\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\JAO Seguros\obj\Debug\JAO Seguros.pdb
